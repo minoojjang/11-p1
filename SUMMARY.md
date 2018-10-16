@@ -4,6 +4,6 @@
 
 ## Chapter2 : 오픈소스의 태동
 
-* [오픈소스의 태동](chapter2/undefined.md)
+* [카피레프트, 해커, 그리고 오픈소스](chapter2/undefined.md)
 * [카피레프트 운동과 GNU](chapter2/gnu.md)
 
