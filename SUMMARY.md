@@ -13,6 +13,9 @@
 * [잘하는건, 공짜로 해주면 안 되지](chapter2/undefined-1.md)
 * [비운의 OS FreeBSD](chapter2/freebsd.md)
 * [또 다른 이야기, IETF](chapter2/ietf.md)
+* [Untitled](chapter2/untitled.md)
+
+## CHAPTER3 : GNU
 
 ## CHAPTER4: OSI
 
