@@ -15,6 +15,11 @@
 
 ## CHAPTER3 : GNU
 
+* [GNU의 아버지 - 리처드 스톨만](chapter3-gnu/gnu.md)
+* [변화에 저항하다 - 자유 소프트웨어 운동](chapter3-gnu/undefined.md)
+* [GNU's Not Unix!](chapter3-gnu/gnus-not-unix.md)
+* [자유, 그 무한한 가능성](chapter3-gnu/undefined-1.md)
+
 ## CHAPTER4: OSI
 
 * [OSI의 역사](chapter4-osi/osi.md)
