@@ -14,3 +14,10 @@
 * [GNU 가라사대 너 스스로를 구원하라](chapter2/gnu-1.md)
 * [비운의 작품 FreeBSD](chapter2/freebsd.md)
 
+## CHAPTER4: OSI
+
+* [OSI의 역사](chapter4-osi/osi.md)
+* [OSI의 목적](chapter4-osi/osi-1.md)
+* [OSI 계층 기능](chapter4-osi/osi-2.md)
+* [Untitled](chapter4-osi/untitled-1.md)
+
