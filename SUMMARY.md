@@ -19,5 +19,5 @@
 * [OSI의 역사](chapter4-osi/osi.md)
 * [OSI의 목적](chapter4-osi/osi-1.md)
 * [OSI 계층 기능](chapter4-osi/osi-2.md)
-* [Untitled](chapter4-osi/untitled-1.md)
+* [OSI 주요 계층](chapter4-osi/untitled-1.md)
 
