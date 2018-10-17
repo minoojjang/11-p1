@@ -5,7 +5,6 @@
 ## CHAPTER1 : 오픈소스의 정의
 
 * [오픈소스?](chapter1/untitled.md)
-* [Untitled](chapter1/untitled-1.md)
 
 ## Chapter2 : 오픈소스의 태동
 
