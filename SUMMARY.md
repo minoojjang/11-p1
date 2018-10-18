@@ -23,3 +23,10 @@
 * [GNU's Not Unix!](chapter3-gnu/gnus-not-unix.md)
 * [자유, 그 무한한 가능성](chapter3-gnu/undefined-1.md)
 
+## Chapter5 :  오픈소스의 현주소
+
+* [오픈소스, 그거 공짜야?](chapter5/undefined-3.md)
+* [기업 : 오픈소스, 확실히 써먹어주지](chapter5/undefined.md)
+* [인식의 변화, 곧 가치의 변화](chapter5/undefined-1.md)
+* [생활속의 오픈소스](chapter5/undefined-2.md)
+
