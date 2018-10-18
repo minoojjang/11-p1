@@ -23,10 +23,3 @@
 * [GNU's Not Unix!](chapter3-gnu/gnus-not-unix.md)
 * [자유, 그 무한한 가능성](chapter3-gnu/undefined-1.md)
 
-## CHAPTER4: OSI
-
-* [OSI의 역사](chapter4-osi/osi.md)
-* [OSI의 목적](chapter4-osi/osi-1.md)
-* [OSI 계층 기능](chapter4-osi/osi-2.md)
-* [OSI 주요 계층](chapter4-osi/untitled-1.md)
-
