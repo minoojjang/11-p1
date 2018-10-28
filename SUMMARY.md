@@ -27,7 +27,7 @@
 
 * [무너진 공룡 Netscape](chapter4-osf/netscape.md)
 * [Netscape, Firefox, 그리고 모질라 재단](chapter4-osf/netscape-firefox.md)
-* [브라우저의 두 거장, 그리고 OSI](chapter4-osf/osi.md)
+* [브라우저의 두 거장](chapter4-osf/osi.md)
 * [OSI의 주요 프로젝트](chapter4-osf/osi-1.md)
 
 ## Chapter5 :  오픈소스의 현주소
