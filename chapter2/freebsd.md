@@ -8,3 +8,9 @@
 
 또한 Data General\(DEC컴퓨터를 판매하던 회사\) 역시, 자신들이 개발한 “RDOS“ 라는 운영체제의 불법복제 문제에 대해서 법적문제를 제기 하였고, 결국 자사의 ”RDOS“에 대해 저작권으로 보호를 하는 사건이 발생하게 된다. 이러한 일련의 사태들을 통해 결국 소프트웨어는 유료화 되었고, 저작권을 갖게 되었다. 사람들은 더 이상 저작권에 의해, 허가받지 않은 상태에서는 기존에 개발된 소프트웨어의 소스코드를 고칠 수 없었다. 또한 Closed Source Code라는 개념의 탄생을 알리는 시작이었다.
 
+![DEC-10 &#xCEF4;&#xD4E8;&#xD130;&#xC758; &#xC0AC;&#xC9C4;](../.gitbook/assets/300px-pdp-10_1090.jpg)
+
+![1976&#xB144;&#xB3C4;&#xC5D0; &#xBE4C;&#xAC8C;&#xC774;&#xCE20;&#xAC00; altair BASIC&#xC744; &#xBD88;&#xBC95;&#xBCF5;&#xC81C;&#xD558;&#xB294; &#xBD88;&#xD2B9;&#xC815; &#xB2E4;&#xC218;&#xC5D0;&#xAC8C; &#xBCF4;&#xB0B4;&#xB294; &#xACF5;&#xAC1C; &#xC11C;&#xD55C;](../.gitbook/assets/24790237587f12a222.jpg)
+
+
+
