@@ -10,9 +10,9 @@
 
 ## Chapter2 : 오픈소스의 태동
 
-* [컴퓨터, 해커, 그리고 오픈소스](chapter2/undefined.md)
-* [잘하는건, 공짜로 해주면 안 되지](chapter2/undefined-1.md)
-* [비운의 OS FreeBSD](chapter2/freebsd.md)
+* [컴퓨터와 소프트웨어의 탄생](chapter2/undefined.md)
+* [초창기의 오픈소스](chapter2/undefined-1.md)
+* [법의 철퇴와 “잘하는 건, 공짜로 해주면 안 되지”](chapter2/freebsd.md)
 * [또 다른 이야기, IETF](chapter2/ietf.md)
 
 ## CHAPTER3 : GNU
