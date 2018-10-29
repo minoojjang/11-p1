@@ -33,6 +33,6 @@
 
 * [오픈소스, 그거 공짜야?](chapter5/undefined-3.md)
 * [기업 : 오픈소스, 확실히 써먹어주지](chapter5/undefined.md)
-* [인식의 변화, 곧 가치의 변화](chapter5/undefined-1.md)
+* [오픈소스, 직접 참여하자](chapter5/undefined-1.md)
 * [생활속의 오픈소스](chapter5/undefined-2.md)
 

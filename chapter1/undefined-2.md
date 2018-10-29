@@ -22,5 +22,5 @@
 
 라는 인식이 생기게 되었는데 이는 잘못된 상식이다.
 
-![&#xC0AC;&#xC6A9;&#xC790;&#xC640; &#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4;&#xC758; &#xC0C1;&#xD638;&#xC791;&#xC6A9;](../.gitbook/assets/image.png)
+![&#xC0AC;&#xC6A9;&#xC790;&#xC640; &#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4;&#xC758; &#xC0C1;&#xD638;&#xC791;&#xC6A9;](../.gitbook/assets/image%20%281%29.png)
 
