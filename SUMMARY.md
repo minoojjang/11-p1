@@ -5,8 +5,8 @@
 ## CHAPTER1 : 오픈소스의 정의
 
 * [소프트웨어란?](chapter1/undefined-2.md)
-* [오픈소스의 필요성을 깨닫다](chapter1/untitled.md)
-* [자유 소프트웨어와의 관계](chapter1/undefined.md)
+* [OSI가 말하는 오픈소스의 정의](chapter1/untitled.md)
+* [오픈이지만 권리는 있어](chapter1/undefined.md)
 
 ## Chapter2 : 오픈소스의 태동
 
