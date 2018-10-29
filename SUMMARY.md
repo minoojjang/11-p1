@@ -34,5 +34,4 @@
 * [오픈소스 활용 기업](chapter5/undefined-3.md)
 * [오픈소스의 "지금"](chapter5/undefined.md)
 * [오픈소스, 직접 참여하자](chapter5/undefined-1.md)
-* [생활속의 오픈소스](chapter5/undefined-2.md)
 
