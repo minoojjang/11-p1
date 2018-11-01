@@ -35,3 +35,7 @@
 * [오픈소스의 "지금"](chapter5/undefined.md)
 * [오픈소스, 직접 참여하자](chapter5/undefined-1.md)
 
+## 출처
+
+* [출처](chapter6/undefined.md)
+
